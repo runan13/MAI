@@ -1,0 +1,10 @@
+{
+  "name": "mai-page",
+  "version": "1.0.0",
+  "description": "Medical Artificial Intelligence with Node.JS",
+  "main": "index.js",
+  "author": "runan13",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
